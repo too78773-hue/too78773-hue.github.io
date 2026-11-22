@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VN Digital &amp; Mobile Tech Notes</title>
+    <link>https://too78773-hue.github.io/podcast/</link>
+    <atom:link href="https://too78773-hue.github.io/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <language>vi</language>
+    <description>Practical notes on mobile apps, web optimization, connectivity, and digital workflow in Vietnam.</description>
+    <itunes:author>Minh Khoa Notes</itunes:author>
+    <itunes:summary>Practical notes on mobile apps, web optimization, connectivity, and digital workflow in Vietnam.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Minh Khoa Notes</itunes:name>
+      <itunes:email>notes@vn-tech-digest.org</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://too78773-hue.github.io/podcast/cover.jpg" />
+    <itunes:category text="Technology" />
+    <item>
+      <title>Tối ưu web di động 2026: DNS, static site và ghi chú số</title>
+      <link>https://csshunchang.com/</link>
+      <guid isPermaLink="false">ep-20261122-f4e341</guid>
+      <pubDate>Sun, 22 Nov 2026 10:49:15 +0000</pubDate>
+      <description><![CDATA[<p>## Bối cảnh 2026 Người dùng di động kỳ vọng trang tĩnh mở gần như tức thì, kể cả trên mạng rung hoặc chuyển vùng yếu. Mục tiêu nên đặt theo trải nghiệm thật: LCP dưới 2,5 giây, INP dưới 200 ms, CLS gần 0. Thay vì thêm plugin, hãy giảm kích thước HTML, nén Brotli, dùng ảnh AVIF/WebP, lazy-load hợp lý và giữ CSS/JS tối thiểu. ## Điểm kiểm tra kỹ thuật - Đo trên thiết bị thật và profile CPU yếu, không chỉ máy phát triển. - Bật HTTP/2 hoặc HTTP/3, CDN gần người dùng, cache-control rõ ràng. - Với DNS</p><p>Reference: <a href="https://csshunchang.com/">csshunchang.com</a></p>]]></description>
+      <enclosure url="https://too78773-hue.github.io/podcast/ep-20261122-f4e341-t-i-u-web-di-ng-2026-dns-static-site-v-g.mp3" length="321192" type="audio/mpeg" />
+      <itunes:author>Minh Khoa Notes</itunes:author>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
