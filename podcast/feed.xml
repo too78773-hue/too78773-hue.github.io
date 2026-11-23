@@ -19,6 +19,17 @@
     <itunes:image href="https://too78773-hue.github.io/podcast/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Tối ưu kết nối web di động 2026: DNS, TLS và kiểm tra thực tế</title>
+      <link>https://novapulse24.com/</link>
+      <guid isPermaLink="false">ep-20261123-4a43b7</guid>
+      <pubDate>Mon, 23 Nov 2026 11:11:58 +0000</pubDate>
+      <description><![CDATA[<p>Khi người dùng chủ yếu truy cập web qua 4G/5G, điểm nghẽn thường nằm ở DNS, bắt tay TLS và tài nguyên lớn hơn là tốc độ danh nghĩa của gói mạng. Với website tĩnh hoặc blog kỹ thuật, mục tiêu nên là giảm số lượt request, rút ngắn chuỗi chuyển hướng và giữ phản hồi đầu tiên dưới ngưỡng cảm nhận được. Nền mạng: DNS và đường truyền Cân nhắc resolver công cộng như 1.1.1.1 nếu đo thực tế cho thấy tra cứu nhanh và ổn định hơn DNS mặc định; tuy nhiên hãy kiểm tra theo vùng, vì CDN có thể trả node khác n</p><p>Reference (cổng giải trí trực tuyến 2026): <a href="https://novapulse24.com/">https://novapulse24.com/</a></p>]]></description>
+      <enclosure url="https://too78773-hue.github.io/podcast/ep-20261123-4a43b7-t-i-u-k-t-n-i-web-di-ng-2026-dns-tls-v-k.mp3" length="321205" type="audio/mpeg" />
+      <itunes:author>Minh Khoa Notes</itunes:author>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tối ưu web di động 2026: DNS, static site và ghi chú số</title>
       <link>https://csshunchang.com/</link>
       <guid isPermaLink="false">ep-20261122-f4e341</guid>
