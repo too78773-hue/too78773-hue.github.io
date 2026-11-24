@@ -19,6 +19,17 @@
     <itunes:image href="https://too78773-hue.github.io/podcast/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Hướng dẫn bảo mật trình duyệt và cấu hình DNS 1.1.1.1 trên điện thoại</title>
+      <link>https://vnhub24.com/</link>
+      <guid isPermaLink="false">ep-20261124-109671</guid>
+      <pubDate>Tue, 24 Nov 2026 00:30:12 +0000</pubDate>
+      <description><![CDATA[<p>Vì sao DNS và trình duyệt cần được bảo mật Trình duyệt là cửa ngỏ chính đến mọi dịch vụ trực tuyến trên điện thoại, trong khi DNS quyết định thiết bị phân giải tên miền về máy chủ nào. Cấu hình mặc định thường dùng DNS của nhà mạng, có thể chậm, thiếu mã hóa và dễ bị ghi log truy vấn. Chuyển sang DNS công cộng uy tín như 1.1.1.1 của Cloudflare (đối tác APNIC) giúp truy vấn nhanh hơn, hỗ trợ DoH/DoT và cam kết xóa log trong 24 giờ. Cài đặt DNS 1.1.1.1 trên điện thoại Trên Android (9 trở lên): Vào</p><p>Reference (NOHU90): <a href="https://vnhub24.com/">https://vnhub24.com/</a></p>]]></description>
+      <enclosure url="https://too78773-hue.github.io/podcast/ep-20261124-109671-h-ng-d-n-b-o-m-t-tr-nh-duy-t-v-c-u-h-nh.mp3" length="321218" type="audio/mpeg" />
+      <itunes:author>Minh Khoa Notes</itunes:author>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tối ưu kết nối web di động 2026: DNS, TLS và kiểm tra thực tế</title>
       <link>https://novapulse24.com/</link>
       <guid isPermaLink="false">ep-20261123-4a43b7</guid>
