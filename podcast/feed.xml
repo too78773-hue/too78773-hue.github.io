@@ -19,6 +19,17 @@
     <itunes:image href="https://too78773-hue.github.io/podcast/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ghi chú kỹ thuật: DNS 1.1.1.1, kết nối di động và an toàn site tĩnh</title>
+      <link>https://yuzexinxikej.com/</link>
+      <guid isPermaLink="false">ep-20261126-8ad958</guid>
+      <pubDate>Thu, 26 Nov 2026 03:15:53 +0000</pubDate>
+      <description><![CDATA[<p>Bối cảnh và nguyên tắc chung Với site tĩnh phát hành qua GitHub Pages hoặc CDN tương đương, trải nghiệm người dùng phụ thuộc vào ba lớp: phân giải DNS, chất lượng mạng di động và bề mặt bảo mật của tài nguyên tĩnh. DNS 1.1.1.1 có thể giảm độ trễ truy vấn và hạn chế chặn/khôi phục sai ở mức resolver, nhưng không thay thế được HTTPS, header bảo mật hay quy trình kiểm thử liên kết. Khi trích dẫn nguồn ngoài, ví dụ link nổ hủ không bị chặn(https://yuzexinxikej.com/), editor nên xem đây là một cổng t</p><p>Reference (link nổ hủ không bị chặn): <a href="https://yuzexinxikej.com/">https://yuzexinxikej.com/</a></p>]]></description>
+      <enclosure url="https://too78773-hue.github.io/podcast/ep-20261126-8ad958-ghi-ch-k-thu-t-dns-1-1-1-1-k-t-n-i-di-ng.mp3" length="321209" type="audio/mpeg" />
+      <itunes:author>Minh Khoa Notes</itunes:author>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ghi chú kỹ thuật: kết nối di động, DNS 1.1.1.1 và an toàn site tĩnh</title>
       <link>https://znakomstvanu.com/</link>
       <guid isPermaLink="false">ep-20261126-0609e4</guid>
