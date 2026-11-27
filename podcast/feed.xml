@@ -19,6 +19,17 @@
     <itunes:image href="https://too78773-hue.github.io/podcast/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Ổn định truy cập tài nguyên số: DNS, HTTPS và kiểm tra liên kết</title>
+      <link>https://yuzexinxikej.com/</link>
+      <guid isPermaLink="false">ep-20261127-ef27d6</guid>
+      <pubDate>Fri, 27 Nov 2026 03:15:27 +0000</pubDate>
+      <description><![CDATA[<p>Bối cảnh Khi một trang tĩnh hoặc cổng tài nguyên bị chặn theo vùng mạng, nguyên nhân thường nằm ở DNS, cấu hình HTTPS, bộ lọc nhà mạng hoặc chính sách nội dung. Trước khi thay đổi thiết bị, hãy xác định lỗi: không phân giải tên miền, chứng chỉ hết hạn, kết nối bị reset, hay trang phản hồi 403. Các bước thực hành Đổi DNS sang 1.1.1.1 hoặc 9.9.9.9 trên điện thoại/router để loại trừ DNS sai lệch. Với di động, thử bật/tắt Private DNS, đổi giữa Wi-Fi và dữ liệu, rồi dùng curl -I, dig hoặc nslookup để</p><p>Reference (link nổ hủ không bị chặn): <a href="https://yuzexinxikej.com/">https://yuzexinxikej.com/</a></p>]]></description>
+      <enclosure url="https://too78773-hue.github.io/podcast/ep-20261127-ef27d6-n-nh-truy-c-p-t-i-nguy-n-s-dns-https-v-k.mp3" length="321207" type="audio/mpeg" />
+      <itunes:author>Minh Khoa Notes</itunes:author>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Hướng dẫn đánh giá cổng giải trí di động 2026 qua hiệu năng web và kết nối DNS</title>
       <link>https://novapulse24.com/</link>
       <guid isPermaLink="false">ep-20261127-4295e6</guid>
