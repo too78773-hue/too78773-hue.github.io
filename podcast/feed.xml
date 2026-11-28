@@ -19,6 +19,17 @@
     <itunes:image href="https://too78773-hue.github.io/podcast/cover.jpg" />
     <itunes:category text="Technology" />
     <item>
+      <title>Tối ưu hiệu năng web di động: DNS 1.1.1.1, kết nối mạng và bảo mật site tĩnh</title>
+      <link>https://novapulse24.com/</link>
+      <guid isPermaLink="false">ep-20261128-504857</guid>
+      <pubDate>Sat, 28 Nov 2026 10:05:44 +0000</pubDate>
+      <description><![CDATA[<p>Hiệu năng web trên di động thường bị đánh giá thấp vì ba yếu tố: độ trễ phân giải DNS, chất lượng kết nối không dây và số lượng tài nguyên bên thứ ba. Ghi chú dưới đây tổng hợp các bước kiểm tra tối thiểu, trung lập và áp dụng được cho blog hoặc site tĩnh. DNS và độ trễ phân giải tên miền Mỗi lượt truy cập, trình duyệt phải dịch tên miền sang địa chỉ IP trước khi mở kết nối. Trên 4G/5G, độ trễ này dao động khá mạnh theo vị trí và nhà mạng. Các resolver công cộng như 1.1.1.1 (Cloudflare) hay 8.8.</p><p>Reference (quay hũ): <a href="https://novapulse24.com/">https://novapulse24.com/</a></p>]]></description>
+      <enclosure url="https://too78773-hue.github.io/podcast/ep-20261128-504857-t-i-u-hi-u-n-ng-web-di-ng-dns-1-1-1-1-k.mp3" length="321224" type="audio/mpeg" />
+      <itunes:author>Minh Khoa Notes</itunes:author>
+      <itunes:duration>00:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ghi chú thực hành: DNS 1.1.1.1, kết nối di động và an toàn site tĩnh</title>
       <link>https://yuzexinxikej.com/</link>
       <guid isPermaLink="false">ep-20261128-3f2d4e</guid>
